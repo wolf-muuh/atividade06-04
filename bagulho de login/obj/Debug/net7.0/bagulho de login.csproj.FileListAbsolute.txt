@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\bagulho de login\bin\Debug\net7.0\bagulho de login.exe
+C:\Users\54750759805\Desktop\bagulho de login\bin\Debug\net7.0\bagulho de login.deps.json
+C:\Users\54750759805\Desktop\bagulho de login\bin\Debug\net7.0\bagulho de login.runtimeconfig.json
+C:\Users\54750759805\Desktop\bagulho de login\bin\Debug\net7.0\bagulho de login.dll
+C:\Users\54750759805\Desktop\bagulho de login\bin\Debug\net7.0\bagulho de login.pdb
+C:\Users\54750759805\Desktop\bagulho de login\obj\Debug\net7.0\bagulho de login.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\bagulho de login\obj\Debug\net7.0\bagulho de login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\bagulho de login\obj\Debug\net7.0\bagulho de login.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\bagulho de login\obj\Debug\net7.0\bagulho de login.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\bagulho de login\obj\Debug\net7.0\bagulho de login.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\bagulho de login\obj\Debug\net7.0\bagulho de login.dll
+C:\Users\54750759805\Desktop\bagulho de login\obj\Debug\net7.0\refint\bagulho de login.dll
+C:\Users\54750759805\Desktop\bagulho de login\obj\Debug\net7.0\bagulho de login.pdb
+C:\Users\54750759805\Desktop\bagulho de login\obj\Debug\net7.0\bagulho de login.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\bagulho de login\obj\Debug\net7.0\ref\bagulho de login.dll

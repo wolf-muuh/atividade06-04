@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\programa de tabuada\bin\Debug\net7.0\programa de tabuada.exe
+C:\Users\54750759805\Desktop\programa de tabuada\bin\Debug\net7.0\programa de tabuada.deps.json
+C:\Users\54750759805\Desktop\programa de tabuada\bin\Debug\net7.0\programa de tabuada.runtimeconfig.json
+C:\Users\54750759805\Desktop\programa de tabuada\bin\Debug\net7.0\programa de tabuada.dll
+C:\Users\54750759805\Desktop\programa de tabuada\bin\Debug\net7.0\programa de tabuada.pdb
+C:\Users\54750759805\Desktop\programa de tabuada\obj\Debug\net7.0\programa de tabuada.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\programa de tabuada\obj\Debug\net7.0\programa de tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\programa de tabuada\obj\Debug\net7.0\programa de tabuada.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\programa de tabuada\obj\Debug\net7.0\programa de tabuada.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\programa de tabuada\obj\Debug\net7.0\programa de tabuada.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\programa de tabuada\obj\Debug\net7.0\programa de tabuada.dll
+C:\Users\54750759805\Desktop\programa de tabuada\obj\Debug\net7.0\refint\programa de tabuada.dll
+C:\Users\54750759805\Desktop\programa de tabuada\obj\Debug\net7.0\programa de tabuada.pdb
+C:\Users\54750759805\Desktop\programa de tabuada\obj\Debug\net7.0\programa de tabuada.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\programa de tabuada\obj\Debug\net7.0\ref\programa de tabuada.dll

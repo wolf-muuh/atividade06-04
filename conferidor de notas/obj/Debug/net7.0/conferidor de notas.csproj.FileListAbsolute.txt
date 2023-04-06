@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\conferidor de notas\bin\Debug\net7.0\conferidor de notas.exe
+C:\Users\54750759805\Desktop\conferidor de notas\bin\Debug\net7.0\conferidor de notas.deps.json
+C:\Users\54750759805\Desktop\conferidor de notas\bin\Debug\net7.0\conferidor de notas.runtimeconfig.json
+C:\Users\54750759805\Desktop\conferidor de notas\bin\Debug\net7.0\conferidor de notas.dll
+C:\Users\54750759805\Desktop\conferidor de notas\bin\Debug\net7.0\conferidor de notas.pdb
+C:\Users\54750759805\Desktop\conferidor de notas\obj\Debug\net7.0\conferidor de notas.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\conferidor de notas\obj\Debug\net7.0\conferidor de notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\conferidor de notas\obj\Debug\net7.0\conferidor de notas.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\conferidor de notas\obj\Debug\net7.0\conferidor de notas.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\conferidor de notas\obj\Debug\net7.0\conferidor de notas.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\conferidor de notas\obj\Debug\net7.0\conferidor de notas.dll
+C:\Users\54750759805\Desktop\conferidor de notas\obj\Debug\net7.0\refint\conferidor de notas.dll
+C:\Users\54750759805\Desktop\conferidor de notas\obj\Debug\net7.0\conferidor de notas.pdb
+C:\Users\54750759805\Desktop\conferidor de notas\obj\Debug\net7.0\conferidor de notas.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\conferidor de notas\obj\Debug\net7.0\ref\conferidor de notas.dll
