@@ -13,3 +13,18 @@ C:\Users\54750759805\Desktop\idade, peso e sexo\obj\Debug\net7.0\refint\idade, p
 C:\Users\54750759805\Desktop\idade, peso e sexo\obj\Debug\net7.0\idade, peso e sexo.pdb
 C:\Users\54750759805\Desktop\idade, peso e sexo\obj\Debug\net7.0\idade, peso e sexo.genruntimeconfig.cache
 C:\Users\54750759805\Desktop\idade, peso e sexo\obj\Debug\net7.0\ref\idade, peso e sexo.dll
+C:\Users\muril\OneDrive\Área de Trabalho\atividade06-04\pesquisa da empresa\bin\Debug\net7.0\idade, peso e sexo.exe
+C:\Users\muril\OneDrive\Área de Trabalho\atividade06-04\pesquisa da empresa\bin\Debug\net7.0\idade, peso e sexo.deps.json
+C:\Users\muril\OneDrive\Área de Trabalho\atividade06-04\pesquisa da empresa\bin\Debug\net7.0\idade, peso e sexo.runtimeconfig.json
+C:\Users\muril\OneDrive\Área de Trabalho\atividade06-04\pesquisa da empresa\bin\Debug\net7.0\idade, peso e sexo.dll
+C:\Users\muril\OneDrive\Área de Trabalho\atividade06-04\pesquisa da empresa\bin\Debug\net7.0\idade, peso e sexo.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\atividade06-04\pesquisa da empresa\obj\Debug\net7.0\idade, peso e sexo.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\atividade06-04\pesquisa da empresa\obj\Debug\net7.0\idade, peso e sexo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Área de Trabalho\atividade06-04\pesquisa da empresa\obj\Debug\net7.0\idade, peso e sexo.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\atividade06-04\pesquisa da empresa\obj\Debug\net7.0\idade, peso e sexo.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\atividade06-04\pesquisa da empresa\obj\Debug\net7.0\idade, peso e sexo.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\atividade06-04\pesquisa da empresa\obj\Debug\net7.0\idade, peso e sexo.dll
+C:\Users\muril\OneDrive\Área de Trabalho\atividade06-04\pesquisa da empresa\obj\Debug\net7.0\refint\idade, peso e sexo.dll
+C:\Users\muril\OneDrive\Área de Trabalho\atividade06-04\pesquisa da empresa\obj\Debug\net7.0\idade, peso e sexo.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\atividade06-04\pesquisa da empresa\obj\Debug\net7.0\idade, peso e sexo.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Área de Trabalho\atividade06-04\pesquisa da empresa\obj\Debug\net7.0\ref\idade, peso e sexo.dll

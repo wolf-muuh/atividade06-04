@@ -1,0 +1,15 @@
+C:\Users\muril\OneDrive\Área de Trabalho\tabuada do 1 até o 10\bin\Debug\net7.0\tabuada do 1 até o 10.exe
+C:\Users\muril\OneDrive\Área de Trabalho\tabuada do 1 até o 10\bin\Debug\net7.0\tabuada do 1 até o 10.deps.json
+C:\Users\muril\OneDrive\Área de Trabalho\tabuada do 1 até o 10\bin\Debug\net7.0\tabuada do 1 até o 10.runtimeconfig.json
+C:\Users\muril\OneDrive\Área de Trabalho\tabuada do 1 até o 10\bin\Debug\net7.0\tabuada do 1 até o 10.dll
+C:\Users\muril\OneDrive\Área de Trabalho\tabuada do 1 até o 10\bin\Debug\net7.0\tabuada do 1 até o 10.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\tabuada do 1 até o 10\obj\Debug\net7.0\tabuada do 1 até o 10.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\tabuada do 1 até o 10\obj\Debug\net7.0\tabuada do 1 até o 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Área de Trabalho\tabuada do 1 até o 10\obj\Debug\net7.0\tabuada do 1 até o 10.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\tabuada do 1 até o 10\obj\Debug\net7.0\tabuada do 1 até o 10.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\tabuada do 1 até o 10\obj\Debug\net7.0\tabuada do 1 até o 10.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\tabuada do 1 até o 10\obj\Debug\net7.0\tabuada do 1 até o 10.dll
+C:\Users\muril\OneDrive\Área de Trabalho\tabuada do 1 até o 10\obj\Debug\net7.0\refint\tabuada do 1 até o 10.dll
+C:\Users\muril\OneDrive\Área de Trabalho\tabuada do 1 até o 10\obj\Debug\net7.0\tabuada do 1 até o 10.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\tabuada do 1 até o 10\obj\Debug\net7.0\tabuada do 1 até o 10.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Área de Trabalho\tabuada do 1 até o 10\obj\Debug\net7.0\ref\tabuada do 1 até o 10.dll

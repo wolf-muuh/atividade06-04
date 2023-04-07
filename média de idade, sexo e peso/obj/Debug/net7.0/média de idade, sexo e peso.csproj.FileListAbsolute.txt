@@ -1,0 +1,15 @@
+C:\Users\muril\OneDrive\Área de Trabalho\média de idade, sexo e peso\bin\Debug\net7.0\média de idade, sexo e peso.exe
+C:\Users\muril\OneDrive\Área de Trabalho\média de idade, sexo e peso\bin\Debug\net7.0\média de idade, sexo e peso.deps.json
+C:\Users\muril\OneDrive\Área de Trabalho\média de idade, sexo e peso\bin\Debug\net7.0\média de idade, sexo e peso.runtimeconfig.json
+C:\Users\muril\OneDrive\Área de Trabalho\média de idade, sexo e peso\bin\Debug\net7.0\média de idade, sexo e peso.dll
+C:\Users\muril\OneDrive\Área de Trabalho\média de idade, sexo e peso\bin\Debug\net7.0\média de idade, sexo e peso.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\média de idade, sexo e peso\obj\Debug\net7.0\média de idade, sexo e peso.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\média de idade, sexo e peso\obj\Debug\net7.0\média de idade, sexo e peso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Área de Trabalho\média de idade, sexo e peso\obj\Debug\net7.0\média de idade, sexo e peso.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\média de idade, sexo e peso\obj\Debug\net7.0\média de idade, sexo e peso.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\média de idade, sexo e peso\obj\Debug\net7.0\média de idade, sexo e peso.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\média de idade, sexo e peso\obj\Debug\net7.0\média de idade, sexo e peso.dll
+C:\Users\muril\OneDrive\Área de Trabalho\média de idade, sexo e peso\obj\Debug\net7.0\refint\média de idade, sexo e peso.dll
+C:\Users\muril\OneDrive\Área de Trabalho\média de idade, sexo e peso\obj\Debug\net7.0\média de idade, sexo e peso.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\média de idade, sexo e peso\obj\Debug\net7.0\média de idade, sexo e peso.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Área de Trabalho\média de idade, sexo e peso\obj\Debug\net7.0\ref\média de idade, sexo e peso.dll
